@@ -1,0 +1,2 @@
+module diverse_strings {
+}
